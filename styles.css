@@ -969,6 +969,12 @@ body {
         padding-left: 0px;
         font-size: 12px;
     }
+    .features {
+        padding-left: 0;
+    }
+    .x1 {
+        padding-left: 10px;
+    }
     .atl {
         width: 100%;
         margin-left: 0px;
